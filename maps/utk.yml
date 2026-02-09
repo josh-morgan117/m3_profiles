@@ -9,7 +9,7 @@ profile:
   date_modified: '2026-01-06'
   responsibility: https://www.lib.utk.edu
   responsibility_statement: University of Tennessee Libraries
-  type: UTK Digital Collections v54 - Reorder metadata fields 
+  type: UTK Digital Collections v54 - Reorder metadata fields
   version: 54
 
 classes:
@@ -504,7 +504,7 @@ properties:
     sample_values:
     - http://id.loc.gov/authorities/names/n80040520
     - http://id.loc.gov/authorities/names/n79109786
-    - http://id.loc.gov/authorities/subjects/sh94001975  
+    - http://id.loc.gov/authorities/subjects/sh94001975
   subject:
     available_on:
       class:
